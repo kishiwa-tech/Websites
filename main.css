@@ -1,0 +1,15 @@
+img{
+	width:250px;
+	border:10px solid #000;
+	border-radius:85%;
+}
+h1{
+	text-align:center;
+	color:#ff0066;
+}
+body{
+	background-color:#00cc00;
+}
+.different{
+	color:red;
+}
